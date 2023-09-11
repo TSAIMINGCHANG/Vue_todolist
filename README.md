@@ -1,2 +1,3 @@
-# Vue_todolist
-Vue_todolist
+# TodoApp
+
+by eddie@5xcampus.com
